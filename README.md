@@ -20,11 +20,11 @@ Detect other vehicles in front, and change speed accordingly.
 
 Objective:
 
-https://github.com/brixt01/GCP-autonomous-vehicle/assets/109489475/14bb7200-2825-4ad1-b7a3-411278c0077d
+
 
 Advanced objective:
 
-https://github.com/brixt01/GCP-autonomous-vehicle/assets/109489475/d83d6823-2b1c-47e2-8312-db3800562557
+
 
 ## Where's the code?
 
